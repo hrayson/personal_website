@@ -6,26 +6,25 @@ title: Holly Rayson
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Institut des Sciences Cognitives - Marc Jeannerod, UMR5229 CNRS
   url: https://isc.cnrs.fr
-
+- name: Hôpital Femme Mère Enfant
+  url: https://www.chu-lyon.fr/hopital-femme-mere-enfant
+  
 # Short bio (displayed in user profile at end of posts)
 
 
 # Interests to show in About widget
 interests:
-- Psychological development
+- Neurocognitive and socioemotional development
 - Early social experience and adversity
 - Social perception and interaction
-- Developmental psychopathology
-- Naturalistic behaviour
-- EEG, MRI, eye-tracking
-
-
+- Developmental and parental psychopathology
+- EEG, MRI, eye-tracking, behavioural observation
 
 # Education to show in About widget
 education:
@@ -76,5 +75,4 @@ email: "h.rayson@isc.cnrs.fr"
 highlight_name: true
 ---
 
-I am a postdoctoral researcher at the Institut des Sciences - Marc Jeannerod, CNRS. My research interests include the effects of early social experience on socio-cognitive and affective development, including the neural correlates of social perception and social interaction. My current work is supported by a Marie Curie Fellowship, and is focused on how early social adversity may influence risk for anxiety disorders. 
-
+I am a postdoctoral researcher at the Hôpital Femme Mère Enfant and Institut des Sciences - (CNRS) in Lyon. The main focus of my research is on neurocognitive development underlying social perception and social interaction, as well as the effects of early social experience on socio-cognitive and affective functioning. I use multimodal techniques including electroencephalography (EEG), eye-tracking, behavioural observation, magnetic resonance imaging (MRI), longitudinal research designs, and advanced statistical methods.
