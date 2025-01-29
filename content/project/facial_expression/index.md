@@ -1,6 +1,6 @@
 ---
-title: Observation and execution of facial movements in infancy and early childhood
-summary: Developmental EEG studies of motor-related alpha (mu) activity in infants and young children during observation and execution of facial movements. Supported by a Medical Research Council Studentship. 
+title: Perception of facial cues in early development
+summary: Developmental EEG and eye-tracking research on the perception of facial cues (facial expressions and gaze shifts) in infants and young children, in humans and non-human primates. The studies focus on how sensorimotor representations develop in the infant brain, including the role of early social experience, and how atypical early attention biases to facial expressions may increase risk for socioemotional problems. Supported by a Medical Research Council Studentship and Marie Curie Individual Fellowship.
 tags:
 - EEG
 - alpha
@@ -33,4 +33,6 @@ url_video: ""
 # slides: ""
 ---
 
-Developmental EEG studies of motor-related alpha (mu) activity in infants and young children during observation and execution of facial movements. Supported by a Medical Research Council Studentship. 
+Developmental EEG and eye-tracking research on the perception of facial cues (facial expressions and gaze shifts) in infants and young children, in humans and non-human primates. The studies focus on how sensorimotor representations develop in the infant brain, including the role of early social experience, and how atypical early attention biases to facial expressions may increase risk for socioemotional problems. Supported by a Medical Research Council Studentship and Marie Curie Individual Fellowship.
+
+<img src="/mrc.jpg" alt="Medical Research Council" width="100"> <img src="/eu.jpg" alt="Marie Curie" width="100">
