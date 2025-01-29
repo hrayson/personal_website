@@ -41,7 +41,4 @@ url_video: ""
 
 Longitudinal assessment (naturalistic observation, stuctured behavioural tasks, MRI) of the effects of early adversity on socio-affective, cognitive and behavioural development in macaques. The project is supported by funding from the Agence Nationale de la Recherche (ANR-19-CE37-0023), the Fondation de France (No. 00079331), the National Institute of Child Health and Human Development (P01HD064653), and the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie (No. 841210). 
 
-<img src="/anr.png" alt="ANR" width="100">
-<img src="/fondation_de_france.png" alt="Fondation de France" width="100">
-<img src="/nih.png" alt="NIH" width="100">
-<img src="/eu.jpg" alt="Marie Curie" width="100">
+<img src="/anr.png" alt="ANR" width="100"> <img src="/fondation_de_france.png" alt="Fondation de France" width="100"> <img src="/nih.png" alt="NIH" width="100"> <img src="/eu.jpg" alt="Marie Curie" width="100">
