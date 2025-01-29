@@ -16,7 +16,7 @@ authors:
 
 
 date: "2019-04-07T00:00:00Z"
-doi: "https://doi.org/10.1038/s41598-017-12097-w"
+doi: "https://doi.org/10.1016/j.dcn.2019.100631"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
