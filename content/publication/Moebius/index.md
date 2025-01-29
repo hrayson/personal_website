@@ -41,7 +41,7 @@ abstract: Temporal dynamics of behavior, particularly facial expressions, are fu
 # Summary. An optional shortened abstract.
 
 
-tags: [facial palsy, emotion, facial expression, time processing, social interactions, emotional and social development]
+tags: [facial palsy, emotion, facial expression, time processing, social interaction, emotional and social development]
 
 # Display this page in the Featured widget?
 featured: true

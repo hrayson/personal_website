@@ -35,7 +35,7 @@ abstract: Processing facial expressions is an essential component of social inte
 # Summary. An optional shortened abstract.
 
 
-tags: [EEG, alpha, mu, infant, facial expression, facial movement, mirroring, emotion, oscillations, action observation, sensorimotor cortex, parent-infant interaction, longitudinal]
+tags: [EEG, alpha, mu, infant, facial expression, facial movement, mirroring, emotion, oscillations, action observation, sensorimotor cortex, parent-infant interaction, longitudinal, social interaction]
 
 # Display this page in the Featured widget?
 featured: true
