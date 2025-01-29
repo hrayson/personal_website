@@ -36,7 +36,7 @@ abstract: Detecting when one’s own gaze has been followed is a critical compon
 # Summary. An optional shortened abstract.
 
 
-tags: [EEG, alpha, mu, infant, gaze, joint attention, preferential looking, oscillations, action observation, sensorimotor cortex]
+tags: [EEG, alpha, mu, infant, gaze, joint attention, preferential looking, oscillations, action observation, sensorimotor cortex, longitudinal]
 
 # Display this page in the Featured widget?
 featured: true
