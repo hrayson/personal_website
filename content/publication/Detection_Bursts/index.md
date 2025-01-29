@@ -37,7 +37,7 @@ abstract: Developmental EEG research often involves analyzing signals within var
 # Summary. An optional shortened abstract.
 
 
-tags: [EEG, infant, oscillations, power spectral density, lagged coherence, beta bursts]
+tags: [EEG, infant, oscillations, power spectral density, lagged coherence, beta bursts, sensorimotor cortex, reaching and grasping]
 
 # Display this page in the Featured widget?
 featured: true

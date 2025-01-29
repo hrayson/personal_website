@@ -39,7 +39,7 @@ abstract: Beta activity is thought to play a critical role in sensorimotor proce
 # Summary. An optional shortened abstract.
 
 
-tags: [EEG, infant, oscillations, beta bursts, action observation, infant reaching and grasping, sensorimotor cortex]
+tags: [EEG, infant, oscillations, beta bursts, action observation, reaching and grasping, sensorimotor cortex, power spectral density, lagged coherence]
 
 # Display this page in the Featured widget?
 featured: true

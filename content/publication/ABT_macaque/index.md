@@ -36,7 +36,7 @@ abstract: 'Affect-biased attention may play a fundamental role in early socioemo
 # Summary. An optional shortened abstract.
 
 
-tags: [affect-biased attention, attention bias to threat, early social adversity, anxiety, macaque, facial expressions, facial movements]
+tags: [affect-biased attention, attention bias to threat, early social adversity, anxiety, macaque, facial expression, facial movement, emotion, gaze]
 
 # Display this page in the Featured widget?
 featured: true

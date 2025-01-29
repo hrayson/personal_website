@@ -34,7 +34,7 @@ abstract: Simulation theories propose that observing another’s facial expressi
 # Summary. An optional shortened abstract.
 
 
-tags: [EEG, alpha, mu, child, facial movement, facial expression, emotion]
+tags: [EEG, alpha, mu, child, facial movement, facial expression, emotion, oscillations, action observation, sensorimotor cortex]
 
 # Display this page in the Featured widget?
 featured: true
