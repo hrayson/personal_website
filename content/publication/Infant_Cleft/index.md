@@ -38,10 +38,10 @@ abstract: Objective. Early mother-infant interactions are impaired in the contex
 # Summary. An optional shortened abstract.
 
 
-tags: [infant, gaze, cleft lip]
+tags: [infant, gaze, cleft lip, attention, face]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

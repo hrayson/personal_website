@@ -41,10 +41,10 @@ abstract: Background. Adult gaze plays an important role in early infant develop
 # Summary. An optional shortened abstract.
 
 
-tags: [infant, gaze, mother-infant interactions, cleft lip]
+tags: [infant, gaze, parent-infant interaction, cleft lip, attention]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
