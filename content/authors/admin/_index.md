@@ -69,7 +69,7 @@ social:
   link: uploads/CV_HRayson.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "h.rayson@isc.cnrs.fr"
+email: "holly.rayson1@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
