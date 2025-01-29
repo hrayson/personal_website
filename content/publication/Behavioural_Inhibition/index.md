@@ -65,6 +65,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - facial_expression
+- anxiety_children
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

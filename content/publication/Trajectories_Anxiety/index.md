@@ -36,7 +36,7 @@ abstract: Extensive research has examined attention bias to threat in the contex
 # Summary. An optional shortened abstract.
 
 
-tags: [child, gaze, anxiety, facial movement, facial expression, emotion, eye-tracking, behavioral inhibition, longitudinal, affect-biased attention]
+tags: [child, gaze, anxiety, facial expression, emotion, eye-tracking, behavioral inhibition, longitudinal, affect-biased attention]
 
 # Display this page in the Featured widget?
 featured: false
@@ -68,6 +68,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects: 
 - facial_expression
+- anxiety_children
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
