@@ -6,7 +6,7 @@ title: Holly Rayson
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher
+role: Postdoctoral researcher · Research project manager · Clinical psychologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,6 +14,8 @@ organizations:
   url: https://isc.cnrs.fr
 - name: Hôpital Femme Mère Enfant
   url: https://www.chu-lyon.fr/hopital-femme-mere-enfant
+- name: CHU Clermont-Ferrand
+  url: https://www.chu-clermontferrand.fr/
   
 # Short bio (displayed in user profile at end of posts)
 
@@ -22,9 +24,9 @@ organizations:
 interests:
 - Neurocognitive and socioemotional development
 - Early social experience and adversity
-- Social perception and interaction
+- Social perception and social interaction
 - Developmental and parental psychopathology
-- EEG, MRI, eye-tracking, behavioural observation
+- Multimodal developmental neuroscience (EEG, MRI, eye-tracking, behavioural observation)
 
 # Education to show in About widget
 education:
@@ -75,4 +77,8 @@ email: "holly.rayson1@gmail.com"
 highlight_name: true
 ---
 
-I am a postdoctoral researcher at the Hôpital Femme Mère Enfant and Institut des Sciences - (CNRS) in Lyon. The main focus of my research is on neurocognitive development underlying social perception and social interaction, as well as the effects of early social experience on socio-cognitive and affective functioning. I use multimodal techniques including electroencephalography (EEG), eye-tracking, behavioural observation, magnetic resonance imaging (MRI), longitudinal research designs, and advanced statistical methods.
+I am a Postdoctoral Researcher, Research Project Manager, and Clinical Psychologist, based in Lyon, France. I am affiliated with the Institut des Sciences Cognitives – Marc Jeannerod (CNRS), the Hôpital Femme Mère Enfant, and CHU Clermont-Ferrand.
+
+My research focuses on the neurocognitive mechanisms underlying social perception and social interaction across early development, and on how early social experience—including adversity and parental psychopathology—shapes socio-cognitive and affective functioning. I adopt a developmental and mechanistic perspective, investigating how attentional, perceptual, and learning processes emerge and reorganise across infancy, and how these processes contribute to risk and resilience for later mental health outcomes.
+
+Methodologically, my work relies on longitudinal, multimodal approaches combining electroencephalography (EEG), eye-tracking, behavioural observation, and magnetic resonance imaging (MRI), together with advanced statistical and computational analyses. Through this work, I aim to bridge developmental cognitive neuroscience, social development, and clinical psychology, with the goal of identifying early, experience-sensitive mechanisms relevant to prevention and intervention.
