@@ -23,8 +23,9 @@ featured: true
 url_pdf: "https://hal.science/hal-05844558/document"
 url_code: "https://github.com/hrayson/infant_face_rsa"
 image:
-  alt_text: "Scatterplot showing a positive association between direct maternal mirroring at two months and neural encoding of facial action units at nine months."
+  keep_aspect_ratio: true
+  alt_text: "Heatmap of dissimilarity in facial action-unit patterns across 12 stimulus conditions, alongside a sequence of these matrices across video frames."
 projects: [facial_expression]
 ---
 
-Inset from Figure 5 of [Bozicevic et al. (2026), *Infant Behavior and Development*](https://doi.org/10.1016/j.infbeh.2026.102262). © 2026 Elsevier Inc.
+Action-unit dissimilarity matrix and frame-by-frame sequence from Figure 1e of [Bozicevic et al. (2026), *Infant Behavior and Development*](https://doi.org/10.1016/j.infbeh.2026.102262). © 2026 Elsevier Inc.
