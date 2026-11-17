@@ -40,7 +40,7 @@ abstract: Developmental EEG research often involves analyzing signals within var
 tags: [EEG, infant, oscillations, power spectral density, lagged coherence, beta bursts, sensorimotor cortex, reaching and grasping]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -48,7 +48,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/hrayson/dev_burst_analysis'
 url_dataset: ''
 url_poster: ''
 url_project: ''

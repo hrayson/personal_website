@@ -37,7 +37,7 @@ abstract: Simulation theories propose that observing another’s facial expressi
 tags: [EEG, alpha, mu, child, facial movement, facial expression, emotion, oscillations, action observation, sensorimotor cortex]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -45,7 +45,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/hrayson/toddler_face_eeg'
 url_dataset: ''
 url_poster: ''
 url_project: ''

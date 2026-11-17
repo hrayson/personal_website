@@ -6,27 +6,26 @@ title: Holly Rayson
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher · Research project manager · Clinical psychologist
+role: Developmental cognitive neuroscientist · Research project manager
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Institut des Sciences Cognitives - Marc Jeannerod, UMR5229 CNRS
+- name: Institut des Sciences Cognitives Marc Jeannerod (CNRS, Université Claude Bernard Lyon 1)
   url: https://isc.cnrs.fr
-- name: Hôpital Femme Mère Enfant
+- name: Hôpital Femme Mère Enfant, Hospices Civils de Lyon
   url: https://www.chu-lyon.fr/hopital-femme-mere-enfant
-- name: CHU Clermont-Ferrand
-  url: https://www.chu-clermontferrand.fr/
-  
-# Short bio (displayed in user profile at end of posts)
+- name: LENA perinatal mental health programme
+  url: https://masantementaleperinatale-lena.fr/nousConnaitre/quiEstLena
 
+# Short bio (displayed in user profile at end of posts)
+bio: I study how early social interactions shape the developing brain and contribute to later mental health.
 
 # Interests to show in About widget
 interests:
-- Neurocognitive and socioemotional development
-- Early social experience and adversity
-- Social perception and social interaction
-- Developmental and parental psychopathology
-- Multimodal developmental neuroscience (EEG, MRI, eye-tracking, behavioural observation)
+- Caregiver–infant interaction and social learning
+- Infant brain and sensorimotor development
+- Early adversity and developmental mental health
+- Perinatal mental health
 
 # Education to show in About widget
 education:
@@ -34,10 +33,10 @@ education:
   - course: PhD in Developmental Cognitive Neuroscience
     institution: University of Reading
     year: 2017
-  - course: MSc in Developmental Psychopathology
+  - course: MSc in Development and Psychopathology
     institution: University of Reading
     year: 2012
-  - course: BSc in Psychology 
+  - course: BSc in Psychology
     institution: University of Warwick
     year: 2010
 
@@ -77,8 +76,8 @@ email: "holly.rayson1@gmail.com"
 highlight_name: true
 ---
 
-I am a Postdoctoral Researcher, Research Project Manager, and Clinical Psychologist, based in Lyon, France. I am affiliated with the Institut des Sciences Cognitives – Marc Jeannerod (CNRS), the Hôpital Femme Mère Enfant, and CHU Clermont-Ferrand.
+I study how early social interactions shape the developing brain and why developmental trajectories differ across children. My work examines how infants learn to interpret faces and actions, how sensorimotor brain activity changes as children acquire new skills, and how parental mental health and early adversity influence these processes. I combine longitudinal studies with EEG and MEG, eye tracking, behavioural observation, and MRI.
 
-My research focuses on the neurocognitive mechanisms underlying social perception and social interaction across early development, and on how early social experience, including adversity and parental psychopathology, shapes socio-cognitive and affective functioning. I adopt a developmental and mechanistic perspective, investigating how attentional, perceptual, and learning processes emerge and reorganise across infancy, and how these processes contribute to risk and resilience for later mental health outcomes.
+I developed and led a [Marie Skłodowska-Curie Individual Fellowship](https://cordis.europa.eu/project/id/841210) on developmental pathways to anxiety and led the scientific design and implementation of research on early adversity within the [ANXIOMONK project](https://anr.fr/Project-ANR-19-CE37-0023). More recently, I led the design, supervision and analysis of a [study linking early caregiver mirroring to infant neural representations of facial movements](https://doi.org/10.1016/j.infbeh.2026.102262). I co-supervise doctoral researchers and serve as a guest editor for *Infant Behavior and Development*.
 
-Methodologically, my work relies on longitudinal, multimodal approaches combining electroencephalography (EEG), eye-tracking, behavioural observation, and magnetic resonance imaging (MRI), together with advanced statistical and computational analyses. Through this work, I aim to bridge developmental cognitive neuroscience, social development, and clinical psychology, with the goal of identifying early, experience-sensitive mechanisms relevant to prevention and intervention.
+I am based in Lyon and affiliated with the Institut des Sciences Cognitives Marc Jeannerod. I work as a research project manager at Hospices Civils de Lyon and as a project manager for the LENA perinatal mental health programme at the Centre Hospitalier de Montluçon–Néris-les-Bains, in partnership with CHU Clermont-Ferrand. I work with clinical teams to develop studies, resources for families, and training materials for clinicians.

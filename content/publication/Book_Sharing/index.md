@@ -38,7 +38,7 @@ abstract: Parental reading to young children is well-established as being positi
 tags: [intersubjectivity, dialogic book-sharing, infant, joint attention, language learning, pointing, gaze, parent-infant interaction, social interaction]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

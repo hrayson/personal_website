@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://centaur.reading.ac.uk/92374/1/Attention%20bias%20preschool%20long%20ESRC.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -60,6 +60,8 @@ url_video: ''
 image:
   focal_point: ""
   preview_only: false
+  keep_aspect_ratio: true
+  alt_text: "Estimated state anxiety from two days before school through the first 12 days of school for children with lower or higher behavioral inhibition, comparing lower and higher dwell bias toward angry faces. Shaded bands show 95% confidence intervals."
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -78,4 +80,4 @@ projects:
 
 ---
 
-
+Figure 1 from the [accepted manuscript](https://centaur.reading.ac.uk/92374/1/Attention%20bias%20preschool%20long%20ESRC.pdf) of [Dodd et al. (2020), *Journal of Abnormal Psychology*](https://doi.org/10.1037/abn0000623).

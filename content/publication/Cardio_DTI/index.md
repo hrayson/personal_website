@@ -44,7 +44,7 @@ abstract: The monkey brain represents a key research model thanks to its strong 
 tags: [high-resolution brain imaging, macaque, diffusion MRI, triggered diffusion MRI, 3D multi-shot EPI, cardiovascular effect]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

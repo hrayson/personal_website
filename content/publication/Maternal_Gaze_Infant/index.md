@@ -65,6 +65,8 @@ url_video: ''
 image:
   focal_point: ""
   preview_only: false
+  keep_aspect_ratio: true
+  alt_text: "Paired bars with standard error show mean fixation duration as a percentage for the infant’s mouth, eyes, and other facial areas. Eyes account for the most time at both ages. Mothers spend a larger share of time looking at the mouth after six weeks."
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -82,4 +84,5 @@ projects:
 
 ---
 
+Figure 1 from [De Pascalis et al. (2017), *Infant Behavior and Development*](https://doi.org/10.1016/j.infbeh.2016.12.003). © 2016 Elsevier Inc.
 

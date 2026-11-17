@@ -17,7 +17,7 @@ authors:
 
 
 date: "2024-06-01T00:00:00Z"
-doi: "https://doi.org/10.1177/095679762412429"
+doi: "https://doi.org/10.1177/09567976241242995"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -48,7 +48,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://osf.io/mdjsy/'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -61,6 +61,8 @@ url_video: ''
 image:
   focal_point: ""
   preview_only: false
+  keep_aspect_ratio: true
+  alt_text: "Boxplots of differential looking times for facing versus non-facing dyads across human infants, children, adults, and macaques."
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -77,4 +79,4 @@ projects: []
 
 ---
 
-
+Figure 1C from the [accepted manuscript](Visual_Pref.pdf) of [Goupil et al. (2024), *Psychological Science*](https://doi.org/10.1177/09567976241242995).

@@ -60,6 +60,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
+  keep_aspect_ratio: true
+  alt_text: "Side-by-side infant face images showing a cleft lip and an unaffected lip."
   focal_point: ""
   preview_only: false
 
@@ -78,5 +80,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 
 ---
-
-

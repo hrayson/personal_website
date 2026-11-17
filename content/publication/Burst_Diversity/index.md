@@ -16,7 +16,7 @@ authors:
 
 
 date: "2025-12-09T00:00:00Z"
-doi: "https://doi.org/10.1177/10738584251390"
+doi: "https://doi.org/10.1177/10738584251390779"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -39,7 +39,7 @@ abstract: Neural activity in the beta band is increasingly recognized to occur n
 tags: [EEG, infant, oscillations, beta bursts, sensorimotor cortex, waveform shape, computational primitive]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

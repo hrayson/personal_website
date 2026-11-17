@@ -38,7 +38,7 @@ abstract: "Intolerance of uncertainty (IU) is the tendency to find uncertainty d
 tags: [child, anxiety, uncertainty, longitudinal]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -47,7 +47,7 @@ featured: true
 
 url_pdf: ''
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://reshare.ukdataservice.ac.uk/853813/'
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -59,6 +59,7 @@ url_video: ''
 image:
   focal_point: ""
   preview_only: false
+  alt_text: "Three plots comparing trajectories of generalised anxiety, internalising symptoms, and externalising symptoms across childhood by higher and lower intolerance of uncertainty."
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -76,4 +77,5 @@ projects:
 
 ---
 
+Figure 4 from [Ryan et al. (2025), *Journal of Anxiety Disorders*](https://doi.org/10.1016/j.janxdis.2025.103004). © 2025 The Authors. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 

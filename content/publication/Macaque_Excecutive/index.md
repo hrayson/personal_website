@@ -39,14 +39,14 @@ abstract: Executive function (EF) describes a group of cognitive processes under
 tags: [executive function, macaque, computational modelling, working memory, inhibitory control, early social adversity]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: '/publication/macaque_excecutive/Macaque_Executive.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

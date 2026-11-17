@@ -39,7 +39,7 @@ abstract: Analysis of neural activity in different frequency bands is ubiquitous
 tags: [lagged coherence, rhythmicity, oscillations, beta bursts, periodic activity, spectral parameterization, alpha, mu, infant, EEG, MEG]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -47,7 +47,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/hrayson/lagged_hilbert_autocoherence'
+url_code: 'https://github.com/danclab/lagged_hilbert_autocoherence'
 url_dataset: ''
 url_poster: ''
 url_project: ''

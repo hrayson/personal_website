@@ -40,7 +40,7 @@ abstract: Although positive effects of oxytocin (OT) on social functioning are w
 tags: [EEG, infant, oscillations, mu, alpha, oxytocin, facial movement, facial expression, action observation]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

@@ -39,7 +39,7 @@ abstract: 'Affect-biased attention may play a fundamental role in early socioemo
 tags: [affect-biased attention, attention bias to threat, early social adversity, anxiety, macaque, facial expression, facial movement, emotion, gaze, attention]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -47,7 +47,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/hrayson/attentionbiasmacaque'
 url_dataset: ''
 url_poster: ''
 url_project: ''

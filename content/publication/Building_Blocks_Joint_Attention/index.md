@@ -39,7 +39,7 @@ abstract: Detecting when one’s own gaze has been followed is a critical compon
 tags: [EEG, alpha, mu, infant, gaze, joint attention, preferential looking, oscillations, action observation, sensorimotor cortex, longitudinal, attenion]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -47,7 +47,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/hrayson/infant_gaze_eeg'
 url_dataset: ''
 url_poster: ''
 url_project: ''

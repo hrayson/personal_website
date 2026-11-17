@@ -46,7 +46,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/hrayson/maternal_mirroring_eeg'
 url_dataset: ''
 url_poster: ''
 url_project: ''
